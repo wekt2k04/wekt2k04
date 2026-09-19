@@ -42,7 +42,7 @@ I'm most interested in conversations about applied deep learning, agent architec
 systems that have to survive contact with real users — not just a benchmark. If any of that
 overlaps with your lab, your course, or your own project, reach out.
 
-[![Email](https://img.shields.io/badge/Email-k.tsetse0026%40uca.ac.ma-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:k.tsetse0026@uca.ac.ma)
+[![Email](https://img.shields.io/badge/Email-tsetsewilfried%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tsetsewilfried@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wilfriedtsetse--2k04-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilfriedtsetse-2k04)
 
 🎓 Preparing graduate-school applications in AI / Data Engineering — Fall 2027 intake.
