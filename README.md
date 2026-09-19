@@ -36,10 +36,13 @@ Currently preparing graduate-school applications in AI / Data Engineering for Fa
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## GitHub
+## Let's talk
 
-![Wilfried's GitHub stats](https://github-readme-stats.vercel.app/api?username=wekt2k04&show_icons=true&theme=default&hide_border=true&count_private=true)
+I'm most interested in conversations about applied deep learning, agent architectures, and
+systems that have to survive contact with real users — not just a benchmark. If any of that
+overlaps with your lab, your course, or your own project, reach out.
 
----
+[![Email](https://img.shields.io/badge/Email-k.tsetse0026%40uca.ac.ma-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:k.tsetse0026@uca.ac.ma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-wilfriedtsetse--2k04-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilfriedtsetse-2k04)
 
-📫 k.tsetse0026@uca.ac.ma
+🎓 Preparing graduate-school applications in AI / Data Engineering — Fall 2027 intake.
